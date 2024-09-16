@@ -14,6 +14,5 @@
 </p> -->
 
 <!-- <div align="center">
-  <!-- Image with some styling -->
   <img src="header.gif" alt="header" width="850px" style="border-radius: 1px; margin-top: -100px; object-fit: cover; height: 350px;">
 </div> -->
