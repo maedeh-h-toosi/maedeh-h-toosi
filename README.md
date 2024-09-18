@@ -13,6 +13,6 @@
     </a>
 </p> -->
 
-<!-- <div align="center">
+<div align="center">
   <img src="header.gif" alt="header" width="850px" style="border-radius: 1px; margin-top: -100px; object-fit: cover; height: 350px;">
-</div> -->
+</div>
